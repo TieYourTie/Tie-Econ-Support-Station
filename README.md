@@ -17,8 +17,7 @@ I know economics can be intimidating. Maybe you are afraid of the math, or the m
 * **Zone 1:** `Math Survival Kit` (For when you forgot how to take a derivative).
 * **Zone 2:** `Micro Theory` (Consumer & Producer Theory).
 * **Zone 3:** `Advanced Corner` (For the brave souls preparing for grad school).
-(more are on the way).
-
+* **(more are on the way)**
 ---
 *Use these notes freely. If you find a mistake or have a suggestion, please open an Issue or tell me directly — we are learning this together.*
 *or level a message or email me at Tiema@cmail.carleton.ca*
